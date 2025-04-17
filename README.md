@@ -26,7 +26,7 @@ The language is based on 19 capital letters, each representing a fundamental con
 | D      | Light          | Transitional   | sun → enlightenment           |
 | ...    | ...            | ...            | ...                          |
 
-*Full table available in [documentation](index.html)*
+*Full table available in [documentation](https://spiritphillang.github.io/index.html)*
 
 ---
 
@@ -72,7 +72,7 @@ The language is based on 19 capital letters, each representing a fundamental con
 
 ## 📚 Resources
 
-- **Official website**: [SpiritPhilLang](index.html)  
+- **Official website**: [SpiritPhilLang](https://spiritphillang.github.io/index.html)  
 - **Complete dictionary**: See tables of concepts and modifications  
 - **Community**: Discussions and creative projects
 
